@@ -1,0 +1,9 @@
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/bin/Debug/netcoreapp3.1/DocumentBuilderLibrary.deps.json
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/bin/Debug/netcoreapp3.1/DocumentBuilderLibrary.dll
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/bin/Debug/netcoreapp3.1/DocumentBuilderLibrary.pdb
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/obj/Debug/netcoreapp3.1/DocumentBuilderLibrary.csproj.AssemblyReference.cache
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/obj/Debug/netcoreapp3.1/DocumentBuilderLibrary.AssemblyInfoInputs.cache
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/obj/Debug/netcoreapp3.1/DocumentBuilderLibrary.AssemblyInfo.cs
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/obj/Debug/netcoreapp3.1/DocumentBuilderLibrary.csproj.CoreCompileInputs.cache
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/obj/Debug/netcoreapp3.1/DocumentBuilderLibrary.dll
+/home/leite/dev/csharp/info3137/FLL-Project2/Project2/DocumentBuilderLibrary/obj/Debug/netcoreapp3.1/DocumentBuilderLibrary.pdb
